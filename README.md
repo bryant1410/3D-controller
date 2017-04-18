@@ -4,7 +4,7 @@ This Android Experiment turns your phone into a 3D controller. It detects the de
 
 In this app you will find 3 demos that utilize this API. The first applies your device's orientation to a 3D model. The second shows the wide range of orientations the API can detect and the third turns your device into a laser pointer simulator.
 
-#Get the demo
+# Get the demo
 You can download the demo app [here](https://play.google.com/store/apps/details?id=com.geomme.controller).
 
 Alternetavley you can download the source code and run the app in developer mode on your chromecast device.  
@@ -97,6 +97,6 @@ This retuned matrix is what we use to rotate the chair
 mMatrixCalculator.getRotationMatrix();
 ```
 
-#License
+# License
 Apache License, Version 2.0. See the [LICENSE](https://github.com/hatemsh/3D-controller/blob/master/LICENSE.md) file for details.
 
